@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ARYAN-PRAKASH
-- 👀 I’m interested in React Flutter
+- 👀 I’m interested in React, Flutter
 - 📫 How to reach me ...
 
 <!---
